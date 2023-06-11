@@ -23,6 +23,7 @@ to robot is set to 6. commandloaded is zero initially. also the loaded commands 
 by default or it will return false as a result. 
 The program file contains RobotTester class to input commands in form of strings and loads the command into robot instances and 
 shows the status after each command.
+![description_png_assignment_4_diljit](https://github.com/diljitehg/IOT1026-Assignment-4/assets/131228332/876b2a35-4ceb-40ae-bebb-b17b3ebc5328)
 
 [Assignment Instructions](docs/instructions.md)  
 [How to start coding](docs/how-to-use.md)  
